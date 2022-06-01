@@ -3,5 +3,5 @@
 # this is the first lesson at the github
 # new file add
 # start new version
-# test set
+test set
 new version
